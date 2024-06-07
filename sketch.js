@@ -48,6 +48,7 @@ function setup() {
   function draw() {
     stroke("blue");
     fill("pink");
+      
     
     
     if (mouseIsPressed) {
